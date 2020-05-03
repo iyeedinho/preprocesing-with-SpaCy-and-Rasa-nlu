@@ -12,6 +12,10 @@
      10. Noun Chunks
      11. Sentence segmentation or boundary detection
      12. Loading from my google drive
+  * Installing the library SpaCy
+     1. sudo pip install spacy
+     2. sudo python -m spacy download en
+     3. sudo python -m spacy download fr
   
 # Intent Classification with Rasa NLU and SpaCy
   * A Libary for intent recognition and entity extraction based on SpaCy and Sklearn
