@@ -1,5 +1,17 @@
 # Preprocesing-with-SpaCy and Rasa_nlu
-  * Learning how to use the library spaCy to preprocessing data 
+  * Learning how to use the library spaCy to preprocessing data by :
+     1. Reading a document or text
+     2. Sentence Tokens
+     3. Word Tokens
+     4. Speech tagging
+     5. Syntactic Dependency
+     6. Visualizing dependency using displacy
+     7. Lemmatizing
+     8. Named Entity Recognition or Detection
+     9. Stop Words
+     10. Noun Chunks
+     11. Sentence segmentation or boundary detection
+     12. Loading from my google drive
   
 # Intent Classification with Rasa NLU and SpaCy
   * A Libary for intent recognition and entity extraction based on SpaCy and Sklearn
@@ -32,3 +44,7 @@
 
 1.   Demo-rasa.json
 2.   Config_spacy.yaml
+
+
+
+### Credits Rasa_nlu & SpaCy
