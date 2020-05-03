@@ -9,4 +9,4 @@
   * NLU = Natural Language “Understanding” (unstructured inputs and convert them into a structured form that a machine can understand and           act upon)
   * NLG = Natural Language “Generation” (responding the same way a human would have by generating artificial text that looks like what a human would have said)
   
-  ![](images/github/iyeedinho/preprocesing-with-SpaCy-and-Rasa-nlu/blob/master/-diff.jpeg)
+  ![](images/https://github.com/iyeedinho/preprocesing-with-SpaCy-and-Rasa-nlu/blob/master/diff.jpeg)
